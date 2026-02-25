@@ -22,14 +22,15 @@ El objetivo era replicar el diseño de una tarjeta de previsualización de blog,
 
 ### Screenshot
 
+<img width="1365" height="595" alt="Captura de pantalla 2026-02-24 220233" src="https://github.com/user-attachments/assets/24431e55-e8ed-43bc-95be-70b5331379ab" />
+
+
 #### Mi solución
 
 ### Links
 
-- Solution URL: [Tu link de GitHub acá](https://github.com/tu-usuario/tu-repo)
+- Solution URL: [GitHub](https://github.com/puchiflex/blog-preview-card-main)
 
-
-## My process
 
 ### Built with
 
@@ -48,7 +49,7 @@ Lo más importante que aprendí en este proyecto fue a lidiar con el **Box Model
     margin: .9rem 0;
     padding: .4rem .55rem;
 }
-
+```
 ### AI Collaboration
 
 Para este proyecto utilicé a **Gemini** como mentor de aprendizaje. En lugar de pedirle que escribiera el código por mí, lo usé para:
