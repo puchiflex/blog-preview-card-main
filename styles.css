@@ -1,0 +1,89 @@
+:root{
+    --clr-yellow: hsl(47, 88%, 63%);
+    --clr-White: hsl(0, 0%, 100%);
+    --clr-gray-500: hsl(0, 0%, 42%);
+    --clr-gray-950: hsl(0, 0%, 7%);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Figtree", sans-serif;
+    font-size: 1rem;
+}
+
+body{
+    background-color: var(--clr-yellow);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+
+}
+.card{
+    background-color: var(--clr-White);
+    width: 90%;
+    max-width: 360px;
+    padding: 1.2rem;
+    border-radius: 1rem;
+    border: 1px solid black;
+    box-shadow: 7px 7px 0 black;
+    
+    
+}
+
+.card-img{
+    width: 100%;
+    height: auto;
+    border-radius: .8rem;
+}
+
+.learning{
+    display: inline-block;
+    background-color: var(--clr-yellow);
+    padding: .4rem .55rem;
+    font-size: 0.86rem;
+    border-radius: .3rem;
+    margin: .9rem 0;
+}
+
+header{
+    margin-bottom: .9rem;
+}
+
+header p, time{
+    font-weight: 500;
+    font-size: .79rem;
+}
+
+h1{
+    font-size: 1.21rem;
+    font-weight: 800;
+    color: var(--clr-gray-950);
+    margin-top: .75rem;
+}
+
+.info{
+    color: var(--clr-gray-500);
+    font-weight: 500;
+    line-height: 1.2rem;
+    margin-bottom: 1.3rem;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    gap: 10px
+}
+
+.footer-img{
+    width: 1.7rem;
+}
+
+.greg-hooper{
+    font-size: .8rem;
+    color:var(--clr-gray-950);
+    font-weight: 700;
+}
