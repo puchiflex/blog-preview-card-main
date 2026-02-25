@@ -59,8 +59,8 @@ Para este proyecto utilicé a **Gemini** como mentor de aprendizaje. En lugar de
 
 ## Author
 
-- Frontend Mentor - [@tu-usuario-de-FM]
-- GitHub - [tu-usuario-de-github]
+- Frontend Mentor - [@puchiflex]
+- GitHub - [puchiflex]
 
 ## Acknowledgments
 
